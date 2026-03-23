@@ -1,6 +1,6 @@
 body {
   background-color: rgb(50,0,0);
-  color: white; /* Makes your title visible */
+  color: white; 
   font-family: sans-serif;
   display: flex;
   text-align: centre;
@@ -18,4 +18,5 @@ body {
   background-color: rgba(255, 255, 255, 0.1) !important; 
   border: 1px solid rgba(255, 255, 255, 0.2) !important;
   border-radius: 8px;
+  text-align: centre;
 }

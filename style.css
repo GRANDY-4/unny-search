@@ -1,4 +1,20 @@
-
 body {
   background-color: rgb(50,0,0);
+  color: white; /* Makes your title visible */
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.search-container {
+  width: 90%;
+  max-width: 700px;
+}
+
+/* This forces Google's box to be visible on dark red */
+.gsc-control-cse {
+  background-color: rgba(255, 255, 255, 0.1) !important; 
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 8px;
 }

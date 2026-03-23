@@ -3,6 +3,7 @@ body {
   color: white; /* Makes your title visible */
   font-family: sans-serif;
   display: flex;
+  text-align: centre;
   justify-content: center;
   padding-top: 50px;
 }
